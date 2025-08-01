@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/manhthien2005/manhthien2005/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="center">Hi 👋, I'm Vuong</h1>
 <h3 align="center">A java backend developer from Vietnam</h3>
 
